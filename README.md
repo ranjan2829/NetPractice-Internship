@@ -60,12 +60,6 @@ Here are some snapshots of the application:
 2. Article Creation Form:
    ![Create Post Form](create_post_snapshot.png)
 
-### Live Demo:
-
-Check out the live demo of the application at [https://django-blog-pl3x.onrender.com/](https://django-blog-pl3x.onrender.com/).
-
-### Author:
-[Avinash Anand](https://avinashanand.me/)
 
 ### License:
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
