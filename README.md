@@ -9,7 +9,7 @@ This Django-based web application serves as a platform for posting articles acro
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/ranjan2829/Django-Blog.git
+   git clone https://github.com/ranjan2829/NetPractice-Internship.git
    cd Django_Blog
    ```
 
