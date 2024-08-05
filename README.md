@@ -10,7 +10,7 @@ This Django-based web application serves as a platform for posting articles acro
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/ranjan2829/NetPractice-Internship.git
-   cd Django_Blog
+   cd NetPractice-Internship
    ```
 
 2. **Install Dependencies:**
